@@ -6,7 +6,6 @@ topics:
     - database
     - db-connections
     - rate-limits
-useCase: customize-connections
 ---
 
 # Rate Limits on User/Password Authentication

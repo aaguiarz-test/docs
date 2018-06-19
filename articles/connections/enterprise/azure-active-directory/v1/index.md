@@ -9,7 +9,6 @@ topics:
     - azure
     - active-directory
     - microsoft
-useCase: customize-connections
 ---
 
 # Connect your app to Azure Active Directory (Classic Portal)

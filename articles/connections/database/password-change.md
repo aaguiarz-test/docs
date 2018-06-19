@@ -7,7 +7,6 @@ topics:
     - database
     - db-connections
     - passwords
-useCase: customize-connections
 ---
 # Changing a User's Password
 

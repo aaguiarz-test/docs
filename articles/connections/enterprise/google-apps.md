@@ -11,7 +11,6 @@ topics:
     - enterprise
     - google
     - google-apps
-useCase: customize-connections
 ---
 
 # Connect Your Google App with Auth0

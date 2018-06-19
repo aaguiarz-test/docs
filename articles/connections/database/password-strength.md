@@ -7,7 +7,6 @@ topics:
     - database
     - db-connections
     - passwords
-useCase: customize-connections
 ---
 # Password Strength in Auth0 Database Connections
 

@@ -13,7 +13,6 @@ topics:
     - connections
     - enterprise
     - ip-addresses
-useCase: customize-connections
 ---
 # Configure IP Address Authentication
 

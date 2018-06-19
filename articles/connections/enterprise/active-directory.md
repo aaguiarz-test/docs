@@ -13,7 +13,6 @@ topics:
     - azure
     - active-directory
     - microsoft
-useCase: customize-connections
 ---
 
 # Connect your app to Active Directory

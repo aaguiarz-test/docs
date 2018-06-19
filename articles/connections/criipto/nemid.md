@@ -9,7 +9,6 @@ crews: crew-2
 topics:
     - connections
     - criipto
-useCase: customize-connections
 ---
 
 # Log in with Danish NemID through Auth0

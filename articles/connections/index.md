@@ -3,9 +3,6 @@ url: /identityproviders
 description: Auth0 is an identity hub that supports the many authentication providers listed here.
 topics:
   - connections
-useCase:
-  - customize-connections
-  - add-idp
 ---
 
 # Identity Providers Supported by Auth0

@@ -3,9 +3,6 @@ description: How to test a partner connection.
 topics:
   - connections
   - troubleshootin
-useCase:
-  - customize-connections
-  - add-idp
 ---
 # Testing a partner connection
 
