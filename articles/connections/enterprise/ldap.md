@@ -8,6 +8,9 @@ topics:
     - connections
     - enterprise
     - ldap
+useCase:
+    - customize-connections
+    - add-idp
 ---
 
 # Configure LDAP Authentication

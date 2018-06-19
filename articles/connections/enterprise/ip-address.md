@@ -13,6 +13,9 @@ topics:
     - connections
     - enterprise
     - ip-addresses
+useCase:
+    - customize-connections
+    - add-idp
 ---
 # Configure IP Address Authentication
 

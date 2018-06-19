@@ -11,6 +11,9 @@ topics:
     - enterprise
     - saml
 	- saml-p
+useCase:
+    - customize-connections
+    - add-idp
 ---
 
 # Create a SAMLP Identity Provider Connection

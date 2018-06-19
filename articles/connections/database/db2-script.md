@@ -5,6 +5,8 @@ topics:
     - connections
     - custom-database
     - ibm-db2
+useCase:
+    - customize-connections
 ---
 
 # Login Script for IBM DB2

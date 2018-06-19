@@ -15,6 +15,9 @@ topics:
     - active-directory
     - microsoft
     - ad-fs
+useCase:
+    - customize-connections
+    - add-idp
 ---
 # Connect your app to ADFS
 

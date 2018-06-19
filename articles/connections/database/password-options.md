@@ -7,6 +7,8 @@ topics:
     - database
     - db-connections
     - passwords
+useCase:
+    - customize-connections
 ---
 # Password Options in Auth0 Database Connections
 

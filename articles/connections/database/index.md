@@ -6,6 +6,8 @@ topics:
     - connections
     - database
     - db-connections
+useCase:
+    - customize-connections
 ---
 
 # Database Identity Providers

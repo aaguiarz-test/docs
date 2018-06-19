@@ -9,6 +9,9 @@ crews: crew-2
 topics:
     - connections
     - criipto
+useCase:
+    - customize-connections
+    - add-idp
 ---
 
 # Log in with Norwegian BankID through Auth0

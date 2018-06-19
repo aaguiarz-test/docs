@@ -19,6 +19,9 @@ topics:
     - azure
     - active-directory
     - microsoft
+useCase:
+    - customize-connections
+    - add-idp
 ---
 
 # Connect your app to Microsoft Azure Active Directory
