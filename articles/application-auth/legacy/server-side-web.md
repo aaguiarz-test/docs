@@ -6,6 +6,8 @@ topics:
   - oauth2
   - authentication
   - server-side-apps
+useCase:
+  - add-login
 ---
 # Authentication for Server-side Web Apps
 

@@ -5,6 +5,8 @@ description: Introduction to the various application authentication flows.
 topics:
   - authentication
   - oauth2
+useCase:
+  - add-login
 ---
 
 # Application Authentication

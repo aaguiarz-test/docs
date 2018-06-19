@@ -4,6 +4,7 @@ toc: true
 topics:
   - applications
   - machine-to-machine-apps
+useCase: build-an-app
 ---
 
 # Application Settings: Machine to Machine Application

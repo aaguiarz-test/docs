@@ -5,6 +5,7 @@ toc: true
 topics:
   - applications
   - native-apps
+useCase: build-an-app
 ---
 
 # Application Settings: Native

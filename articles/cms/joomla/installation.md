@@ -3,6 +3,8 @@ description: How to install Auth0 onto your Joomla platform.
 topics:
     - joomla
     - cms
+useCase:
+  - add-login
 ---
 
 # Joomla Installation

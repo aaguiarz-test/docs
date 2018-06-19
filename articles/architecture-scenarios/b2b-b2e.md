@@ -13,6 +13,10 @@ topics:
     - saml
     - active-directory
     - social-connections
+useCase:
+  - invoke-api
+  - secure-an-api
+  - build-an-app
 ---
 
 # Business to Business + Enterprise Identity Scenarios

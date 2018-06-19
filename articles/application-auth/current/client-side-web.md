@@ -7,6 +7,8 @@ topics:
   - authentication
   - oauth2
   - implicit
+useCase:
+  - add-login
 ---
 
 # Authentication for Client-side Web Apps

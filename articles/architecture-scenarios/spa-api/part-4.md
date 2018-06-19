@@ -7,6 +7,10 @@ topics:
     - api-auth
     - authorization-code
     - implicit-grant
+useCase:
+  - invoke-api
+  - secure-an-api
+  - build-an-app
 ---
 
 # SPA + API: Conclusion

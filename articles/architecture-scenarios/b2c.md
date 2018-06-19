@@ -11,6 +11,10 @@ topics:
     - db-connections
     - passwordless
     - saml
+useCase:
+  - invoke-api
+  - secure-an-api
+  - build-an-app
 ---
 
 # Business to Consumer Identity Scenarios

@@ -8,6 +8,11 @@ topics:
   - architecture
   - authorization-code
   - pkce
+useCase:
+  - invoke-api
+  - secure-an-api
+  - enable-mobile-auth
+  - build-an-app
 ---
 
 # Mobile + API: Node.js Implementation for the API

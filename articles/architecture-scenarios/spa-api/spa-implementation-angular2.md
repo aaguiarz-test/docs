@@ -9,6 +9,10 @@ topics:
     - authorization-code
     - implicit-grant
     - angular2
+useCase:
+  - invoke-api
+  - secure-an-api
+  - build-an-app
 ---
 
 # SPA + API: Angular 2 Implementation for the SPA

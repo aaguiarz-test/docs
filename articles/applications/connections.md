@@ -4,6 +4,9 @@ crews: crew-2
 topics:
   - applications
   - connections
+useCase:
+  - build-an-app
+  - customize-connections
 ---
 # Application Connections
 

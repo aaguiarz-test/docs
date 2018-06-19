@@ -3,6 +3,12 @@ description: This page explains common troubleshooting issues with WordPress.
 topics:
     - wordpress
     - cms
+useCase:
+  - add-login
+  - build-an-app
+  - customize-connections
+  - secure-an-api
+  - manage-users
 ---
 
 # WordPress Troubleshooting

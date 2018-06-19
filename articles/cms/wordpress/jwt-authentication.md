@@ -3,6 +3,12 @@ description: Explains how to install the WordPress JWT Authentication and integr
 topics:
     - wordpress
     - cms
+useCase:
+  - add-login
+  - build-an-app
+  - customize-connections
+  - secure-an-api
+  - manage-users
 ---
 
 # WordPress JWT Authentication

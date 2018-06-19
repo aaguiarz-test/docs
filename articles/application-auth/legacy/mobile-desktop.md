@@ -6,6 +6,8 @@ topics:
   - oauth2
   - mobile-apps
   - desktop-apps
+useCase:
+  - add-login
 ---
 # Authentication for Mobile & Desktop Apps
 

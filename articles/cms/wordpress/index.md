@@ -4,6 +4,12 @@ url: /cms/wordpress
 topics:
     - wordpress
     - cms
+useCase:
+  - add-login
+  - build-an-app
+  - customize-connections
+  - secure-an-api
+  - manage-users
 ---
 # Login by Auth0 WordPress Plugin
 

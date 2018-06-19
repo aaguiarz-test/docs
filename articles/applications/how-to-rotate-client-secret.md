@@ -4,6 +4,8 @@ crews: crew-2
 topics:
   - applications
   - client-secrets
+useCase:
+  - build-an-app
 ---
 
 # Rotate the Client Secret

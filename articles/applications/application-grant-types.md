@@ -4,6 +4,8 @@ toc: true
 topics:
   - applications
   - grant-types
+useCase:
+  - build-an-app
 ---
 # Application Grant Types
 

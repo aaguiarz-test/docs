@@ -5,6 +5,7 @@ toc: true
 topics:
   - applications
   - spa
+useCase: build-an-app
 ---
 
 # Application Settings: Single Page Applications

@@ -5,6 +5,7 @@ toc: true
 topics:
   - applications
   - regular-web-apps
+useCase: build-an-app
 ---
 # Application Settings: Regular Web Applications
 
