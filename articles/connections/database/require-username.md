@@ -6,6 +6,7 @@ topics:
     - connections
     - database
     - db-connections
+useCase: customize-connections
 ---
 
 # Adding Username for Database Connections

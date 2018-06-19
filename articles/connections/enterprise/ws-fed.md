@@ -9,6 +9,7 @@ topics:
     - connections
     - enterprise
     - ws-fed
+useCase: customize-connections
 ---
 
 # Connecting WS-Federation Providers with Auth0

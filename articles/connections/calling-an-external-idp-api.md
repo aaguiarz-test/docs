@@ -8,6 +8,9 @@ topics:
   - social
   - access-tokens
   - api
+useCase:
+  - customize-connections
+  - add-idp
 ---
 # Call an Identity Provider API
 

@@ -11,6 +11,7 @@ topics:
     - connections
     - enterprise
     - sharepoint
+useCase: customize-connections
 ---
 
 # Connect your app to SharePoint Apps

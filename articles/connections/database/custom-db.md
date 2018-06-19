@@ -9,6 +9,7 @@ toc: true
 topics:
     - connections
     - custom-database
+useCase: customize-connections
 ---
 
 # Authenticate Users Using Your Database

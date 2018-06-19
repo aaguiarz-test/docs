@@ -19,6 +19,7 @@ topics:
     - active-directory
     - microsoft
     - native-apps
+useCase: customize-connections
 ---
 
 # Native Azure Active Directory applications with Auth0 (Resource Owner flow)
