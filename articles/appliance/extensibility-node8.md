@@ -2,6 +2,7 @@
 title: Migration Guide - Extensibility and Node 8
 description: This article covers the Auth0 PSaaS Appliance features/modules affected, as well as recommendations to ensure a smooth migration process.
 toc: true
+useCase: appliance
 ---
 # PSaaS Appliance Migration Guide: Extensibility and Node 8
 

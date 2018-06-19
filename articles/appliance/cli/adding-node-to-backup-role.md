@@ -6,6 +6,7 @@ topics:
     - backups
     - cli
     - nodes
+useCase: appliance
 ---
 
 # PSaaS Appliance: Adding a Node to the Backup Role

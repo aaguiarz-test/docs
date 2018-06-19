@@ -6,6 +6,7 @@ description: This document contains information about the PSaaS Appliance and it
 topics:
     - appliance
     - infrastructure
+useCase: appliance
 ---
 
 # Private SaaS (PSaaS) Appliance Infrastructure Requirements

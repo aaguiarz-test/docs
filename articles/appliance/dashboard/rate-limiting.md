@@ -5,6 +5,7 @@ topics:
     - appliance
     - dashboard
     - rate-limiting
+useCase: appliance
 ---
 
 # Auth0 Appliance Dashboard: Rate Limiting

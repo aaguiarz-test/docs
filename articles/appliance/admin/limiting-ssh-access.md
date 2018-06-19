@@ -5,6 +5,7 @@ topics:
     - appliance
     - ssh
     - security
+useCase: appliance
 ---
 
 # PSaaS Appliance Administration: Limiting SSH Access

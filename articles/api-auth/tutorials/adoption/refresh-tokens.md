@@ -6,6 +6,9 @@ topics:
   - tokens
   - refresh tokens
 contentType: discussion
+useCase:
+  - secure-api
+  - call-api
 ---
 
 # OIDC-conformant Refresh Tokens

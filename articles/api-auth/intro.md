@@ -6,6 +6,9 @@ topics:
   - api-authentication
   - oidc
 contentType: discussion
+useCase:
+  - secure-api
+  - call-api
 ---
 # Introducing OIDC Conformant Authentication
 

@@ -4,6 +4,7 @@ description: Overview of the PSaaS Appliance Dashboard Activity page
 topics:
     - appliance
     - dashboard
+useCase: appliance
 ---
 
 # PSaaS Appliance Dashboard: Activity

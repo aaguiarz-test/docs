@@ -5,6 +5,7 @@ description: How to set up custom domains for your PSaaS Appliance
 topics:
     - appliance
     - custom-domains
+useCase: appliance
 ---
 
 # Private SaaS (PSaaS) Appliance: Custom Domains

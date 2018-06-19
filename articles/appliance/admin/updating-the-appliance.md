@@ -5,6 +5,7 @@ toc: true
 topics:
     - appliance
     - updates
+useCase: appliance
 ---
 # Updating the PSaaS Appliance
 

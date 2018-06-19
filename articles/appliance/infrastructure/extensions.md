@@ -5,6 +5,7 @@ topics:
     - appliance
     - infrastructure
     - extensions
+useCase: appliance
 ---
 # Enable Webtasks, Extensions, and User Search
 

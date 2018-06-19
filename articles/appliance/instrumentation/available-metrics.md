@@ -4,6 +4,7 @@ description: This document covers the metrics available when using Instrumentati
 topics:
     - appliance
     - instrumentation
+useCase: appliance
 ---
 
 # PSaaS Appliance: Metrics Available via Instrumentation

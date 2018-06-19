@@ -5,6 +5,7 @@ topics:
     - appliance
     - dashboard
     - updates
+useCase: appliance
 ---
 
 # PSaaS Appliance Dashboard: Updates

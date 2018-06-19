@@ -5,6 +5,7 @@ topics:
     - appliance
     - dashboard
     - tenants
+useCase: appliance
 ---
 
 # PSaaS Appliance Dashboard: Tenants

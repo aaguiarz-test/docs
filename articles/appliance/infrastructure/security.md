@@ -5,6 +5,7 @@ topics:
     - appliance
     - infrastructure
     - security
+useCase: appliance
 ---
 
 # PSaaS Appliance Infrastructure Requirements: Security and Access

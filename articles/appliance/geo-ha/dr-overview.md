@@ -5,6 +5,7 @@ topics:
     - appliance
     - geo-ha
     - disaster-recovery
+useCase: appliance
 ---
 
 <!-- markdownlint-disable MD033 -->

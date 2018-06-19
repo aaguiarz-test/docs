@@ -7,6 +7,7 @@ topics:
     - ip-addressses
     - domains
     - ports
+useCase: appliance
 ---
 
 <!-- markdownlint-disable MD033 -->

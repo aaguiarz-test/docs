@@ -5,6 +5,9 @@ topics:
   - oidc
   - delegation
 contentType: discussion
+useCase:
+  - secure-api
+  - call-api
 ---
 
 # Delegation and the OIDC-conformant pipeline

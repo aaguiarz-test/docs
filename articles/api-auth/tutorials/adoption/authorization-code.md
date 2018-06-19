@@ -5,6 +5,9 @@ topics:
   - oidc
   - authorization-code
 contentType: discussion
+useCase:
+  - secure-api
+  - call-api
 ---
 
 # Authorization Code grant

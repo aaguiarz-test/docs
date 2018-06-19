@@ -4,6 +4,9 @@ topics:
   - client-credentials
   - api-authorization
 contentType: discussion
+useCase:
+  - secure-api
+  - call-api
 ---
 # Calling APIs from a Service
 

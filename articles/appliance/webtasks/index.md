@@ -4,6 +4,7 @@ description: How to use Webtasks on the PSaaS Appliance
 topics:
     - appliance
     - webtask
+useCase: appliance
 ---
 
 # PSaaS Appliance: Webtasks

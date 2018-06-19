@@ -5,6 +5,7 @@ topics:
     - appliance
     - cli
     - ip-addresses
+useCase: appliance
 ---
 
 # How to Reconfigure IP Addresses Using the Command Line Interface

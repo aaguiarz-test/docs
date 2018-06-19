@@ -5,6 +5,7 @@ topics:
     - appliance
     - dashboard
     - settings
+useCase: appliance
 ---
 
 # Auth0 Appliance Dashboard: Settings

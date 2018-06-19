@@ -5,6 +5,7 @@ topics:
     - appliance
     - monitoring
     - testing
+useCase: appliance
 ---
 
 # PSaaS Appliance: Using Authenticated Testing Endpoints

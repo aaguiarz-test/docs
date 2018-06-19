@@ -5,6 +5,7 @@ topics:
     - appliance
     - infrastructure
     - virtual-machines
+useCase: appliance
 ---
 
 # PSaaS Appliance Infrastructure Requirements: Virtual Machines

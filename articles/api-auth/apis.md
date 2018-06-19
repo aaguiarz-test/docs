@@ -9,6 +9,9 @@ topics:
   - oidc
   - apis
 contentType: discussion
+useCase:
+  - secure-api
+  - call-api
 ---
 # APIs
 

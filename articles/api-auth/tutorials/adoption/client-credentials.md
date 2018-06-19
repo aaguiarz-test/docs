@@ -5,6 +5,9 @@ topics:
   - oidc
   - client-credentials
 contentType: discussion
+useCase:
+  - secure-api
+  - call-api
 ---
 
 # Client Credentials exchange

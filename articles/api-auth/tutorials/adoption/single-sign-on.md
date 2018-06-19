@@ -5,6 +5,9 @@ topics:
   - oidc
   - sso
 contentType: discussion
+useCase:
+  - secure-api
+  - call-api
 ---
 
 # Single sign-on

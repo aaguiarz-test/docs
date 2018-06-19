@@ -4,6 +4,7 @@ description: This document details who is responsible for what aspects of a give
 topics:
     - appliance
     - raci
+useCase: appliance
 ---
 
 # PSaaS Appliance: Roles and Responsibilities

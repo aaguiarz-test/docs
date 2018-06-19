@@ -4,6 +4,7 @@ section: appliance
 topics:
     - appliance
     - infrastructure
+useCase: appliance
 ---
 
 # PSaaS Appliance Infrastructure Requirements: Frequently Asked Questions

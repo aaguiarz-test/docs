@@ -5,6 +5,7 @@ topics:
     - appliance
     - dashboard
     - oss
+useCase: appliance
 ---
 
 # OSS Components

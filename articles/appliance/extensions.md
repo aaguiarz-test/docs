@@ -5,6 +5,7 @@ description: Explains implementation details for Extensions specific to the PSaa
 topics:
     - appliance
     - extensions
+useCase: appliance
 ---
 
 # PSaaS Appliance: Extensions

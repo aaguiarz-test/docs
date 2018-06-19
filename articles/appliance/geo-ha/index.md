@@ -6,6 +6,7 @@ topics:
     - appliance
     - geo-ha
     - disaster-recovery
+useCase: appliance
 ---
 
 # Private SaaS (PSaaS) Appliance: High Availability Geo Cluster (Geo HA)

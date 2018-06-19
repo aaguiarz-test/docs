@@ -5,6 +5,7 @@ topics:
     - appliance
     - infrastructure
     - installation
+useCase: appliance
 ---
 
 <!-- markdownlint-disable MD033 -->

@@ -6,6 +6,7 @@ description: >
 topics:
     - appliance
     - administration
+useCase: appliance
 ---
 
 # PSaaS Appliance: Administrator's Manual

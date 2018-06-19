@@ -5,6 +5,7 @@ topics:
     - appliance
     - dashboard
     - instrumentation
+useCase: appliance
 ---
 
 # PSaaS Appliance Dashboard: Instrumentation

@@ -5,6 +5,7 @@ topics:
     - appliance
     - dashboard
     - cli
+useCase: appliance
 ---
 
 # PSaaS Appliance Dashboard: CLI

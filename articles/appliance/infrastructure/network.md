@@ -5,6 +5,7 @@ topics:
     - appliance
     - infrastructure
     - networks
+useCase: appliance
 ---
 
 # PSaaS Appliance Infrastructure Requirements: Network

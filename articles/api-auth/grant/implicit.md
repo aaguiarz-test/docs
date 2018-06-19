@@ -6,6 +6,9 @@ topics:
   - implicit
   - api-authorization
 contentType: discussion
+useCase:
+  - secure-api
+  - call-api
 ---
 # Call APIs from Client-side Web Apps
 

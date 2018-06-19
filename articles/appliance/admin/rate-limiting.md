@@ -4,6 +4,7 @@ description: How to enable, configure, and test for rate limiting in the Applian
 topics:
     - appliance
     - rate-limiting
+useCase: appliance
 ---
 # PSaaS Appliance: Rate Limiting
 

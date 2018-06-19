@@ -7,6 +7,7 @@ topics:
     - appliance
     - webtask
     - domains
+useCase: appliance
 ---
 # PSaaS Appliance: Webtask with Dedicated Domains
 

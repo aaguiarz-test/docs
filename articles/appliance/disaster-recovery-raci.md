@@ -5,6 +5,7 @@ topics:
     - appliance
     - disaster-recovery
     - raci
+useCase: appliance
 ---
 
 <!-- markdownlint-disable MD033 -->

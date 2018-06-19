@@ -6,6 +6,7 @@ topics:
     - appliance
     - private-cloud
     - requirements
+useCase: appliance
 ---
 # Requirements for the Auth0 Dedicated Cloud Service
 
