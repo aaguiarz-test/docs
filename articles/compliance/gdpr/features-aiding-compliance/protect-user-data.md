@@ -5,6 +5,7 @@ toc: true
 topics:
     - compliance
     - gdpr
+useCase: compliance
 ---
 # GDPR: Protect and secure user data
 

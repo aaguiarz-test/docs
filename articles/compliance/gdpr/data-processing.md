@@ -4,6 +4,7 @@ description: How Auth0 processes data in its possession
 topics:
     - compliance
     - gdpr
+useCase: compliance
 ---
 # Auth0 Data Processing
 

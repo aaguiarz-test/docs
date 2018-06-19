@@ -5,6 +5,7 @@ toc: true
 topics:
     - compliance
     - gdpr
+useCase: compliance
 ---
 # GDPR: Right to access, correct, and erase data
 

@@ -4,6 +4,7 @@ description: How to protect your end users' data
 topics:
     - compliance
     - gdpr
+useCase: compliance
 ---
 # Security Advice for Customers
 

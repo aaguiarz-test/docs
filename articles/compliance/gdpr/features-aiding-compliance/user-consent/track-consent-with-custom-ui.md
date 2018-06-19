@@ -5,6 +5,7 @@ toc: true
 topics:
     - compliance
     - gdpr
+useCase: compliance
 ---
 # Track Consent with Custom UI
 

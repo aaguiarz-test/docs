@@ -5,6 +5,7 @@ classes: topic-page
 topics:
     - compliance
     - gdpr
+useCase: compliance
 ---
 
 <div class="topic-page-header">
