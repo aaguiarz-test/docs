@@ -6,6 +6,7 @@ topics:
     - security
     - anomaly-detection
 contentType: index
+useCase: customize-anomaly-detection
 ---
 
 # Anomaly Detection

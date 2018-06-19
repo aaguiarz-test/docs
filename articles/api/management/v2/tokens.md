@@ -8,6 +8,7 @@ topics:
   - management-api
   - tokens
 contentType: discussion
+useCase: invoke-api
 ---
 # The Auth0 Management APIv2 Token
 

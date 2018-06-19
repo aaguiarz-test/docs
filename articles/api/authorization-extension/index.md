@@ -6,6 +6,7 @@ topics:
     - apis
     - api-authorization
 contentType: reference
+useCase: invoke-api
 ---
 
 <div class="api-section" data-section="none">
